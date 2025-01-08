@@ -10,13 +10,3 @@ Final Project
 	a. Tidak perlu dijalankan
 	b. Ubah vars untuk feature yang benar-benar ingin dijalankan
 2. You can freely upload only to your own branch
-
-**Workflow**
-1. Pull from your own branch
-2. commit and push there so the main script won't be changed
-3. Merge to experiments first! don't just straight up merge to main
-
-**Rules**
-PLEASE COMPLY TO WORKFLOW!
-a. Lakukan pekerjaan pribadi dalam branch masing-masing
-c. merge to experiments only when you are certain
